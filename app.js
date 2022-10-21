@@ -13,7 +13,7 @@ movemole();
 
 function movemole() {
    
-    timerId = setInterval(randomsquare, 500); // call randomsquare in 500ms
+    timerId = setInterval(randomsquare, 400); // call randomsquare in 500ms
 }
 
 
